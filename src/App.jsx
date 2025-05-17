@@ -16,7 +16,7 @@ export default function App() {
 
   return (
     <div className="bg-[#003049] sm:h-[800px] h-full py-2 text-white font-[#Montserrat]">
-      <h1 className="sm:text-4xl text-2xl font-semibold text-center capitalize pt-10">Wareegii ugu danbeeyay Ee Doorashada Dalka Somalia</h1>
+      <h1 className="sm:text-4xl text-2xl font-semibold text-center capitalize pt-15">Wareegii ugu danbeeyay Ee Doorashada Dalka Somalia</h1>
       <div className="sm:flex flex-col sm:flex-row justify-center mt-20 sm:gap-80 ml-10 ">
         
         <div className="bg-white w-[300px] h-[460px] rounded-2xl my-5 sm:my-0">
